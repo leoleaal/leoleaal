@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoleallima)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoleaal)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoleaal&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoleaal&show_icons=true&theme=graywhite&locale=pt-br)
 
 ## Tecnologias que eu uso no meu dia
 
