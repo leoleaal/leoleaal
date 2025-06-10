@@ -47,4 +47,10 @@ Olá, sou o Leonardo! Tenho 24 anos, sou de São Paulo e formado em Ciência da 
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoleaal&show_icons=true&theme=vue&locale=pt-br)
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoleaal/leoleaal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leoleaal/leoleaal/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leoleaal/leoleaal/output/github-contribution-grid-snake.svg">
+</picture>
+
 > *"A curiosidade sobre os dados é o que impulsiona descobertas."*
