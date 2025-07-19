@@ -2,18 +2,20 @@
 
 # 🧑🏻‍💻 Leonardo Leal Lima
 
-**`Analista de Dados`**
+**`IT Tech Support || Data Analyst`**
 
-Olá, sou o Leonardo! Tenho 24 anos, sou de São Paulo e formado em Ciência da Computação pela Universidade Paulista. A tecnologia sempre fez parte da minha vida e, hoje, transformo essa paixão em profissão atuando como Analista de Dados. Gosto de resolver problemas, explorar dados e transformar informações em decisões inteligentes.
+Hello, I'm Leonardo! I'm 24 years old, from São Paulo, and I have a degree in Computer Science from Universidade Paulista. Technology has always been a part of my life, and today I turn that passion into my profession as a Data Analyst.
 
+I enjoy solving problems, exploring data, and transforming information into smart, data-driven decisions.
 
+I'm passionate about fitness, reading, technology, and running — activities that keep me focused, curious, and constantly evolving.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoleallima)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoleaal)
 
 
 
-## ⚙️ Minhas Skills
+## ⚙️ Skills
 
 <div style="display: inline_block">
 
@@ -43,7 +45,7 @@ Olá, sou o Leonardo! Tenho 24 anos, sou de São Paulo e formado em Ciência da 
 </div>
 
 
-## 📊 Estatísticas
+## 📊 Statitics
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoleaal&show_icons=true&theme=vue&locale=pt-br)
 
