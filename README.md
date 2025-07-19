@@ -2,9 +2,9 @@
 
 # 🧑🏻‍💻 Leonardo Leal Lima
 
-**`IT Tech Support || Data Analyst`**
+**`IT Tech Support | Data Analyst`**
 
-Hello, I'm Leonardo! I'm 24 years old, from São Paulo, and I have a degree in Computer Science from Universidade Paulista. Technology has always been a part of my life, and today I turn that passion into my profession as a Data Analyst.
+I'm 24 years old, from São Paulo, and I have a degree in Computer Science from Universidade Paulista. Technology has always been a part of my life, and today I turn that passion into my profession as a Data Analyst.
 
 I enjoy solving problems, exploring data, and transforming information into smart, data-driven decisions.
 
