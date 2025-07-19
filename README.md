@@ -45,7 +45,7 @@ I'm passionate about fitness, reading, technology, and running — activities th
 </div>
 
 
-## 📊 Statitics
+## 📊 Statistics
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoleaal&show_icons=true&theme=vue&locale=pt-br)
 
